@@ -1,0 +1,6 @@
+framework module Pods_MvvmRXTests {
+  umbrella header "Pods-MvvmRXTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
